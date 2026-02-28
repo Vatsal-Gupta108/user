@@ -1,1 +1,1 @@
-https://www.bing.com/search?pglt=297&q=%5B!%5BCI%5D(https%3A%2F%2Fgithub.com%2FVatsal-Gupta108%2Fuser%2Factions%2Fworkflows%2Fci.yml%2Fbadge.svg)%5D(https%3A%2F%2Fgithub.com%2FVatsal-Gupta108%2Fuser%2Factions%2Fworkflows%2Fci.yml)&cvid=0998ea587a024b8a820e9e667d32b90d&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOdIBBzY4OWowajGoAgCwAgA&FORM=ANNTA1&adppc=EDGEESS&PC=U531
+[![CI](https://github.com/Vatsal-Gupta108/user/actions/workflows/ci.yml/badge.svg)](https://github.com/Vatsal-Gupta108/user/actions/workflows/ci.yml)
